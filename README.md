@@ -1,6 +1,8 @@
 # Low-Level-Image-Processing
 This code is developed as one of the assignments for the course "Image Processing and Computer Vision".
 
+The code is written in MATLAB. The project_report.pdf contains description of each subproblem, implementation details and screenshots of the results.
+
 # To Run the code
 1. Load the test images given in the "Test Images", in the working directory.
 2. Run histogram_equalisation.m for histogram equalisation.
